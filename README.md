@@ -1,0 +1,2 @@
+# simplescrapy
+simplescrapy for douban
